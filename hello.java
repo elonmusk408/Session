@@ -1,7 +1,5 @@
-ei
-hello
-welcome
-econd day 
+khweikbjs j
+rsday 
 code
 changes commit messages to multiple 
 

@@ -1,11 +1,6 @@
 khweikbjs j
 rsday 
 code
-changes commit messages to multiple 
+changes commit messages to multiple
 
-v
-ve
-v
-v
-
-fc 
+pull changes to local repo
